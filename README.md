@@ -34,7 +34,7 @@ Git · Github/Gitlab · Jira · Asana · Trello · Premiere Pro · Photoshop · 
 
 I write novels (eleven so far, five self-published) and am working with my literary agent to land my first publishing deal. I play guitar and bass (and the drums, but I haven't had a kit in years), and I also sing. I noodle around on Garage Band a bunch but have never really released anything. I also draw, and regularly post my illustrations to [my Instagram](https://www.instagram.com/cwbuecheler). I used to write a nightly cocktail blog and still enjoying making high-quality cocktails. I play too many video games. I like to follow the NBA, particularly the Boston Celtics.
 
-## Pronouns
+## 🤔Pronouns
 
 He/Him/His
 
