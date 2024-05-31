@@ -10,7 +10,7 @@ I'm moving to France! In July, 2024, I'll be relocating to Paris (well, Boulogne
 
 ## 🖱️ Current Gig
 
-I manage a team of five web developers raning from juniors to seniors for College of the Holy Cross. I'll be departing this role at the end of June and am currently **looking for new opportunities**.
+I manage a team of five web developers ranging from juniors to seniors for College of the Holy Cross. I'll be departing this role at the end of June and am currently **looking for new opportunities**.
 
 ## 🔍 Find Me
 
