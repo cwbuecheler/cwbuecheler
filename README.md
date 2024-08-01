@@ -2,7 +2,7 @@
 
 Hi, I'm Chris! In twenty-seven years as a web developer, I've done everything from graphics to maintaining servers, but mostly what I do these days is build APIs with TypeScript and Node.js, build front-ends with React and Next.js, then connect the two together. I also manage teams of people doing this. I've been fully remote since 2010 and spent ten of those years freelancing, so I'm extremely versed in contributing to a wide variety of projects remotely and asynchronously.
 
-If you're wondering why my Github graph looks a little sparse, it's because my current job uses a self-hosted version control solution, so none of my work for the past two years shows up here. 😄
+If you're wondering why my Github graph looks a little sparse, it's because my most recent job uses a self-hosted version control solution, so none of my work for the past two years shows up here. 😄
 
 ## ❗The Big News
 
