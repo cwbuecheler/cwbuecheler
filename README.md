@@ -6,11 +6,11 @@ If you're wondering why my Github graph looks a little sparse, it's because my c
 
 ## ❗The Big News
 
-I'm moving to France! In July, 2024, I'll be relocating to Paris (well, Boulogne-Billancourt) full-time. I've spent more than a year of my life in France, including a six-month stint in Paris in 2016, and I'm looking forward to this new adventure. It'll also be fun to be closer to my in-laws after almost two decades of having to fly across an ocean to see them.
+In July, 2024, I relocated to Paris (well, Saint-Clopud) full-time. I've spent more than a year of my life in France, including a six-month stint in Paris in 2016, and I'm looking forward to this new adventure. It'll also be fun to be closer to my in-laws after almost two decades of having to fly across an ocean to see them.
 
 ## 🖱️ Current Gig
 
-I manage a team of five web developers ranging from juniors to seniors for College of the Holy Cross. I'll be departing this role at the end of June and am currently **looking for new opportunities**.
+Until I moved, I managed a team of five web developers ranging from juniors to seniors for College of the Holy Cross. I am currently **looking for new opportunities**.
 
 ## 🔍 Find Me
 
