@@ -14,7 +14,7 @@ Until I moved, I managed a team of five web developers ranging from juniors to s
 
 ## 🔍 Find Me
 
-You can hit me up on [LinkedIn](https://linkedin.com/in/cwbuecheler) or at [cwbuecheler.com](https://cwbuecheler.com), both of which have links to my socials and other ways to contact me.
+You can hit me up on [LinkedIn](https://linkedin.com/in/cwbuecheler) or at [closebrace.com](https://closebrace.com), both of which have links to my socials and other ways to contact me.
 
 ## 💻 Skills
 
