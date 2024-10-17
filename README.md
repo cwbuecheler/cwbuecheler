@@ -4,13 +4,13 @@ Hi, I'm Chris! In twenty-seven years as a web developer, I've done everything fr
 
 If you're wondering why my Github graph looks a little sparse, it's because my most recent job uses a self-hosted version control solution, so none of my work for the past two years shows up here. 😄
 
-## ❗The Big News
+## 🌍 Where You At?
 
 In July, 2024, I relocated to Paris (well, Saint-Cloud) full-time. I've spent more than a year of my life in France, including a six-month stint in Paris in 2016, and I'm looking forward to this new adventure. It'll also be fun to be closer to my in-laws after almost two decades of having to fly across an ocean to see them.
 
 ## 🖱️ Current Gig
 
-Until I moved, I managed a team of five web developers ranging from juniors to seniors for College of the Holy Cross. I am currently **looking for new opportunities**.
+I've recently joined my sixth startup, [Embeddable](https://embeddable.com), where I'll be working as a Developer Relations Engineer, doing a combo of coding, documentation, and tutorial work while also actively helping other devs get established on the platform. We allow developers to quickly and easily create custom analytics widgets and embed them in their own products. Check it out!
 
 ## 🔍 Find Me
 
